@@ -30,11 +30,8 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=8472CB29-11D0-4EFF-AAC1-1B765EDF6909
-VaultGUID=8317cad2-054d-4ebb-99de-7f6cca303963
-ReleaseVaultName=Tenant 1
-ItemGUID=8472CB29-11D0-4EFF-AAC1-1B765EDF6909
-Template=C:\Users\Public\Documents\Altium\AD18\Templates\PCI long card 5V - 64 BIT.PrjPCB
+ManagedProjectGUID=
+Template=C:\Users\Public\Documents\Altium\AD18.0\Templates\AT short bus ( 7 x 4.5 inches).PrjPCB
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -42,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=PCI long card 5V - 64 BIT.schdoc
+DocumentPath=AT short bus ( 7 x 4.5 inches).PCBDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -56,10 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JDOWEBWO
+DocumentUniqueId=TGHEMCQP
 
 [Document2]
-DocumentPath=PCI long card 5V - 64 BIT.PCBDOC
+DocumentPath=AT short bus ( 7 x 4.5 inches).schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,10 +70,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UWWYSHCD
+DocumentUniqueId=CMXDIVTH
 
 [Document3]
-DocumentPath=PCB_Project_2.BomDoc
+DocumentPath=PCB_Git_SubFolder.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -91,23 +88,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document4]
-DocumentPath=Sheet1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SASQZWYV
 
 [Configuration1]
 Name=Default Configuration
@@ -641,16 +621,11 @@ OutputName5=Footprint Comparison Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=BOM_Violations
-OutputName6=BOM Checks Report
+OutputType6=Component states check
+OutputName6=Server's components states check
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=Component states check
-OutputName7=Server's components states check
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -702,16 +677,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -841,7 +806,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -909,7 +873,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1

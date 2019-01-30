@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=FA647FC2-AE61-42A3-9D2E-50607C9EAE4A
+VaultGUID=8317cad2-054d-4ebb-99de-7f6cca303963
+ReleaseVaultName=Tenant 1
+ItemGUID=FA647FC2-AE61-42A3-9D2E-50607C9EAE4A
 Template=C:\Users\Public\Documents\Altium\ADDev\Templates\PCMCIA Type 2 Shielded 15 Pin IO Connector.PrjPCB
 IncludeDesignInRelease=0
 

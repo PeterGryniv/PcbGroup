@@ -30,10 +30,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=1B6C3457-0E8B-4CE1-BF26-2FAFA0893BFC
-VaultGUID=bed41d2f-876a-46ae-bde5-08f647c72f31
-ReleaseVaultName=AD Workspace
-ItemGUID=1B6C3457-0E8B-4CE1-BF26-2FAFA0893BFC
+ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\ADDev\Templates\Eurocard VME 3U (3.937 x 6.299 inches).PrjPCB
 IncludeDesignInRelease=0
 
@@ -211,7 +208,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera FS-1020MFP GX (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

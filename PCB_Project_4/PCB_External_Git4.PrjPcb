@@ -30,10 +30,9 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=D238EB95-8AC6-4793-8066-9528DE614A5A
+ManagedProjectGUID=50635783-58A0-4D26-A7DA-B0D38EECFBA9
 VaultGUID=44e09f79-9e3d-4ec3-b883-43fd72b1a99c
 ReleaseVaultName=Peter DEV
-ItemGUID=D238EB95-8AC6-4793-8066-9528DE614A5A
 Template=C:\Users\Public\Documents\Altium\AD18\Templates\PC-104 16 bit bus.PrjPCB
 IncludeDesignInRelease=0
 
